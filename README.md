@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kvn-c
+# 👋 Hi, I’m @kvn-c from Columbus, OH
 - 👀 I’m interested in anything Hubspot or CSS related
 - 🌱 I’m currently learning React, Vue, & Hubspot APIs
 
