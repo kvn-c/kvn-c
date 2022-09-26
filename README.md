@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @kvn-c 
 ##### Based in Columbus, OH
 - 👀 I’m interested in anything Hubspot or CSS related
-- 🌱 I’m currently learning React & Hubspot APIs
+- 🌱 I’m currently learning VUE & Hubspot APIs
 
 
 <!---
